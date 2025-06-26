@@ -6,7 +6,7 @@ const Header = () => {
     <div className="w-full">
 
       {/* --------- Booking Banner --------- */}
-      <div className='flex flex-col md:flex-row flex-wrap bg-primary rounded-lg px-6 md:px-10 lg:px-20'>
+      <div className='flex flex-col md:flex-row flex-wrap bg-gradient-to-b from-[#009493] to-[#1e293b] rounded-lg px-6 md:px-10 lg:px-20'>
 
         {/* Left Side */}
         <div className='md:w-1/2 flex flex-col items-start justify-center gap-4 py-10 m-auto md:py-[10vw] md:mb-[-30px]'>
@@ -36,7 +36,7 @@ const Header = () => {
       </div>
 
       {/* --------- Services Section (Column-Wise) --------- */}
-      <div className="w-full bg-gradient-to-b from-[#0f172a] to-[#1e293b] text-white px-6 md:px-20 py-16">
+      <div className="w-full bg-gradient-to-b from-[#006594] to-[#1e293b] text-white px-6 md:px-20 py-16">
         <div className="flex flex-col gap-10 max-w-3xl mx-auto">
 
           {/* Card 1: Find Nearby Hospital */}
