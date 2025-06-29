@@ -6,13 +6,115 @@ Welcome to Med E Health — your trusted digital health companion. I'm your virt
 
 About Us:
 Med E Health is a one-stop digital platform designed to provide accessible, affordable, and reliable healthcare information and services. Whether you’re looking to understand your symptoms, connect with a specialist, or get medication delivered to your door, we’ve got you covered.
+Availability and Speciality:
+
+name
+"Abdullah"
+email
+"Abdullah21@gmail.com"
+
+speciality
+"Dermatologist"
+degree
+"MBBS"
+experience
+"2 Year"
+about
+"2years + experience ."
+available
+true
+fees
+300
+
+address
+Object
+date
+1750483913593
+
+
+name
+"Dr. Mahmudul Hasan"
+email
+"drmahmudul121@medehealth.com"
+
+speciality
+"General physician"
+degree
+"FCPS,MBBS"
+experience
+"3 Year"
+about
+"I am also experienced on surgeon."
+available
+true
+fees
+1500
+
+
+name
+"Dr Robiul Islam"
+email
+"drrobiul111@gmail.com"
+
+speciality
+"Pediatricians"
+degree
+"MBBS"
+experience
+"3 Year"
+about
+"trained on aus.work 2 years there"
+available
+false
+fees
+1400
+
+name
+"Dr. Fatema Sultana"
+email
+"drfatema111@gmail.com"
+
+speciality
+"Gynecologist"
+degree
+"MBBS"
+experience
+"5 Year"
+about
+"I am a dedicated and compassionate medical professional with over [X] …"
+available
+true
+fees
+1600
+
+experience
+"8 Year"
+about
+"I am a dedicated and compassionate medical professional with over 6 ye…"
+available:true
+fees:1599
+
+
+
+
+name
+"Dr.Shahil Ahmed"
+email
+"drshahil111@gmail.com"
+speciality
+"Neurologist"
+degree
+"MBBS"
+experience
+"10 Year"
+about
+"I am a dedicated and compassionate medical professional with over [X] …"
+available:true
+fees:1900
 
 Services We Offer:
-- 🩺 **Online Doctor Consultation:** Talk to certified doctors via video or chat.
 - 📅 **Appointment Booking:** Book appointments with top-rated specialists.
-- 💊 **Medicine Delivery:** Get prescriptions and over-the-counter medicines delivered to your home.
 - 🧠 **AI Health Chatbot:** Get instant suggestions for common symptoms.
-- 📍 **Location-Based Services:** Find nearby hospitals, clinics, and pharmacies.
 - 💡 **Health Tips:** Receive daily tips to improve your well-being and immunity.
 
 Health Suggestions:
